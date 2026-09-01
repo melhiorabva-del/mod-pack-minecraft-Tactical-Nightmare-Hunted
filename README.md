@@ -8,7 +8,8 @@ Vous êtes plongé dans un monde sombre où des créatures cauchemardesques vous
 ⚙️ Performances & Configuration
 Version : Minecraft 1.20.1 (Forge)
 
-RAM recommandée : 3 Go minimum (le pack intègre un pack d'optimisation lourd : ModernFix, FerriteCore, Embeddium, Starlight, etc. pour garantir un 30 FPS stable sans micro-saccades).
+RAM recommandée : 3 Go minimum (le pack intègre un pack d'optimisation lourd : ModernFix, FerriteCore, Embeddium, Starlight, etc. pour garantir un 30 FPS stable sans micro-saccades). 
+                :4 a 5 ram pour du vrai stabilité en minimum 60 fps (testé pas mon pc super faible qui peut avoir 3 ram alloué) 
 
 🛠️ Contribuer au projet
 Ce modpack est fait maison et évolue constamment ! Si vous avez des idées d'équilibrage, des suggestions de mods ou si vous trouvez des bugs :
@@ -17,6 +18,4 @@ Ouvrez une Issue sur le GitHub pour en discuter.
 
 Proposez vos modifications via une Pull Request.
 
-Voilà, tu n'as plus qu'à créer un fichier nommé README.md sur ton dépôt GitHub, y coller ce texte, et le tour est joué !
-
-Est-ce que ça te va comme base, ou tu veux modifier des trucs dedans ?
+ou si vous être des bosse ou pro dans ce domaine svp amélioré tout ce que vous pouvez a font 
