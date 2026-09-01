@@ -9,7 +9,8 @@ Vous êtes plongé dans un monde sombre où des créatures cauchemardesques vous
 Version : Minecraft 1.20.1 (Forge)
 
 RAM recommandée : 3 Go minimum (le pack intègre un pack d'optimisation lourd : ModernFix, FerriteCore, Embeddium, Starlight, etc. pour garantir un 30 FPS stable sans micro-saccades). 
-                :4 a 5 ram pour du vrai stabilité en minimum 60 fps (testé pas mon pc super faible qui peut avoir 3 ram alloué) 
+              
+:4 a 5 go pour du vrai stabilité en minimum 60 fps (testé pas mon pc super faible qui peut avoir 3 ram alloué) 
 
 🛠️ Contribuer au projet
 Ce modpack est fait maison et évolue constamment ! Si vous avez des idées d'équilibrage, des suggestions de mods ou si vous trouvez des bugs :
