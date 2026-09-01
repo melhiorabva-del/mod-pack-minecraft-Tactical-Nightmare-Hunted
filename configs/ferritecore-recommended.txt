@@ -1,0 +1,10 @@
+# FerriteCore — recommandations (exemple)
+
+# Exemple de paramètres
+ordered_tick_processing=true
+chunk_cache_size=1024
+ferrite_reduce_packet_size=true
+
+# Notes
+- FerriteCore vise à réduire GC et allocations; les paramètres varient selon la version du mod.
+- Si des bugs surviennent, restaurez le config d'origine.

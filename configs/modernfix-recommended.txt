@@ -1,0 +1,14 @@
+# ModernFix — recommandations (exemple de paramètres)
+
+(Attention : vérifie les noms de clés exacts dans le config `modernfix` généré)
+
+# Exemple de paramètres recommandés pour stabilité/performance
+maxChunkUpdatesPerTick=10
+asyncChunkUpdates=true
+chunkUpdateIntervalTicks=1
+reduceEntityUpdates=true
+entityUpdateBatchSize=16
+
+# Notes
+- Diminuer `maxChunkUpdatesPerTick` réduit les saccades lors d'importantes charges de chunks.
+- `asyncChunkUpdates=true` peut améliorer FPS mais tester la compatibilité avec d'autres mods (worldgen / light engines).

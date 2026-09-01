@@ -1,0 +1,11 @@
+# EntityCulling — recommandations (exemple)
+
+# Exemple de paramètres
+enable_entity_culling=true
+culling_render_distance=64
+cull_hostile_mobs=true
+cull_particles=true
+
+# Notes
+- Entity culling réduit le rendu/updates des entités hors champ de vision.
+- Testez en augmentant progressivement l'agressivité (cull_* flags).

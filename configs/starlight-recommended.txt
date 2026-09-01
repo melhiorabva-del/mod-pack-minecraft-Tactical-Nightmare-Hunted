@@ -1,0 +1,11 @@
+# Starlight — recommandations (exemple)
+
+# Exemple de paramètres suggérés
+use_starlight_light_engine=true
+starlight_thread_count=2
+starlight_caching=true
+starlight_chunk_light_updates_per_tick=5
+
+# Notes
+- Starlight remplace le moteur d'éclairage ; régler `thread_count` entre 1 et 4 selon CPU.
+- Si vous observez des artefacts d'éclairage, baissez `chunk_light_updates_per_tick`.

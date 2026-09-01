@@ -1,0 +1,10 @@
+# JVM arguments recommandés
+
+# Pour une instance avec 3 GB alloués (client solo)
+-Xmx3G -Xms3G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=50 -XX:+UseStringDeduplication -Dfml.readTimeout=60
+
+# Pour 4 GB
+-Xmx4G -Xms4G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=50 -XX:+UseStringDeduplication -Dfml.readTimeout=60
+
+# Remarque
+- Utilise Java 17 (recommandé pour Forge 1.20.1). Adapte -Xmx/-Xms à la RAM disponible.
